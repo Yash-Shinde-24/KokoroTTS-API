@@ -1,0 +1,9 @@
+flask == 3.1.0
+torch == 2.5.1
+phonemizer == 3.3.0
+transformers == 4.48.0
+munch == 4.0.0
+numpy == 2.2.1
+ipython == 8.31.0
+scipy == 1.15.1
+espeak-py == 0.1.8
